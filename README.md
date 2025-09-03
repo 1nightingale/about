@@ -11,8 +11,8 @@ You’ll find:
 
 ## 📂 Featured Repositories
 
-- [ATS Resume Optimiser](https://github.com/1nightingale/ats-resume-optimiser): Helping résumés survive the robot apocalypse. [Blog article](https://techntrek.co.uk/article/can-ai-really-help-land-a-job/)
-- [Chameleon Contacts](https://github.com/1nightingale/chameleonContacts): Helping résumés survive the robot apocalypse. [Blog article]((https://techntrek.co.uk/article/decoy-data-part-2/))
+- [ATS Resume Optimiser](https://github.com/1nightingale/ats-resume-optimiser): Helping résumés survive the robot apocalypse. [Blog](https://techntrek.co.uk/article/can-ai-really-help-land-a-job/)
+- [Chameleon Contacts](https://github.com/1nightingale/chameleonContacts): Helping résumés survive the robot apocalypse. [Blog](https://techntrek.co.uk/article/decoy-data-part-2/)
 
 ## 👐 Licensing
 
